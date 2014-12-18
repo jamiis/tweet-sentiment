@@ -1,0 +1,1000 @@
+[Thu Apr 24 22:41:08 UTC 2014]Establishing connection.
+[Thu Apr 24 22:41:11 UTC 2014]Connection established.
+[Thu Apr 24 22:41:11 UTC 2014]Receiving status stream.
+[Thu Apr 24 22:41:11 UTC 2014]Unhandled event: {"disconnect":{"code":2,"stream_name":"sergmor&mjc2IDFZEALQV1Kof6KRBeunD-statuses7371292816857161342","reason":"duplicate of sergmor&5q86uVVuu1f9iVfKWf4Brg-statuses7371301114851417223"}}
+[Thu Apr 24 22:41:11 UTC 2014]Stream closed.
+Stream closed.
+Relevant discussions can be found on the Internet at:
+	http://www.google.co.jp/search?q=a8fd061d or
+	http://www.google.co.jp/search?q=00070a0c
+TwitterException{exceptionCode=[a8fd061d-00070a0c a8fd061d-0007099a], statusCode=-1, message=null, code=-1, retryAfter=-1, rateLimitStatus=null, version=3.0.5}
+	at twitter4j.StatusStreamBase.handleNextElement(StatusStreamBase.java:199)
+	at twitter4j.StatusStreamImpl.next(StatusStreamImpl.java:57)
+	at twitter4j.TwitterStreamImpl$TwitterStreamConsumer.run(TwitterStreamImpl.java:478)
+Caused by: java.io.EOFException: Unexpected end of ZLIB input stream
+	at java.util.zip.InflaterInputStream.fill(InflaterInputStream.java:240)
+	at java.util.zip.InflaterInputStream.read(InflaterInputStream.java:158)
+	at java.util.zip.GZIPInputStream.read(GZIPInputStream.java:116)
+	at sun.nio.cs.StreamDecoder.readBytes(StreamDecoder.java:283)
+	at sun.nio.cs.StreamDecoder.implRead(StreamDecoder.java:325)
+	at sun.nio.cs.StreamDecoder.read(StreamDecoder.java:177)
+	at java.io.InputStreamReader.read(InputStreamReader.java:184)
+	at java.io.BufferedReader.fill(BufferedReader.java:154)
+	at java.io.BufferedReader.readLine(BufferedReader.java:317)
+	at java.io.BufferedReader.readLine(BufferedReader.java:382)
+	at twitter4j.StatusStreamBase.handleNextElement(StatusStreamBase.java:85)
+	... 2 more
+[Thu Apr 24 22:41:11 UTC 2014]Stream closed.
+Stream closed.
+Relevant discussions can be found on the Internet at:
+	http://www.google.co.jp/search?q=a8fd061d or
+	http://www.google.co.jp/search?q=00070a0c
+TwitterException{exceptionCode=[a8fd061d-00070a0c a8fd061d-0007099a], statusCode=-1, message=null, code=-1, retryAfter=-1, rateLimitStatus=null, version=3.0.5}
+	at twitter4j.StatusStreamBase.handleNextElement(StatusStreamBase.java:199)
+	at twitter4j.StatusStreamImpl.next(StatusStreamImpl.java:57)
+	at twitter4j.TwitterStreamImpl$TwitterStreamConsumer.run(TwitterStreamImpl.java:478)
+Caused by: java.io.EOFException: Unexpected end of ZLIB input stream
+	at java.util.zip.InflaterInputStream.fill(InflaterInputStream.java:240)
+	at java.util.zip.InflaterInputStream.read(InflaterInputStream.java:158)
+	at java.util.zip.GZIPInputStream.read(GZIPInputStream.java:116)
+	at sun.nio.cs.StreamDecoder.readBytes(StreamDecoder.java:283)
+	at sun.nio.cs.StreamDecoder.implRead(StreamDecoder.java:325)
+	at sun.nio.cs.StreamDecoder.read(StreamDecoder.java:177)
+	at java.io.InputStreamReader.read(InputStreamReader.java:184)
+	at java.io.BufferedReader.fill(BufferedReader.java:154)
+	at java.io.BufferedReader.readLine(BufferedReader.java:317)
+	at java.io.BufferedReader.readLine(BufferedReader.java:382)
+	at twitter4j.StatusStreamBase.handleNextElement(StatusStreamBase.java:85)
+	... 2 more
+[Thu Apr 24 22:41:11 UTC 2014]Waiting for 250 milliseconds
+[Thu Apr 24 22:41:11 UTC 2014]Establishing connection.
+[Thu Apr 24 22:41:12 UTC 2014]Connection established.
+[Thu Apr 24 22:41:12 UTC 2014]Receiving status stream.
+@Miicadezeo - no se re sarpa el pibe ajjajajajaj
+@Thejokerman_ - puto/bolado
+@NunuBhadDoe - Had To Make A Couple Bands By My Lonely
+@gwennruuqq - teamfollowback
+He who laughs last didnt get it. teamfollowback
+@heyThalys - prepara Brasil,pq essa copa n vai ser boa
+@MMasonXXX - Your tattoos are are truly the hottest ones i've ever seen on anyone - which one was y... — My cross on my left arm http://t.co/YfqjQOuVxU
+@UHOOPSDOTCOM - Nets GM Billy King told NBA TV his decision to reassign assistant coach Lawrence Frank to doing reports (ESPN) http://t.co/9uxC3jgjsV #...
+@kasiklanutella - Whatsappa senin için girmiyor, o tweetleri de senin için atmıyor. Kandırmayalım birbirimizi
+@VzlArtenCanaria - RT @RunRunesWeb: CIDH: Inseguridad atenta contra los derechos de los venezolanos - http://t.co/5K3QYFM41D
+@CheetosCalum - 🌻 🌸 🌻 🌸 🌻 🌸 
+hi calum hood from 5sos 
+i love you
+if you see this will you please 
+follow me? 
+@Calum5SOS 
+🌻 🌸 🌻 🌸 🌻 🌸 x
+@bubwal - @SianWeather c'mon Sian. Weekend in Pembrokeshire for me. First time in years. Sort it out please. Pretty please.
+@evalabella - RT @TransparenciaLS: Orquesta Sinfónica Los Salias celebra su aniversario con conciertos http://t.co/SL3ImQBExP
+@memezarka - انتبه... خطأ يقع فيه الكثيرون بالوضوء .. http://t.co/LaQDWpM7xj
+@thebuggles1 - "I feel like punching the boss' jaw again  ""Did you say again?"" ""Yes, I felt like doing it once before today!"""
+@MediaTVProduct - "BAZNESS la nouvelle pub de la bière Tunisienne BERBER" : http://t.co/BTEJCGXeBW via @YouTube
+@xheydrew - RT @jdbseverythjng: “@RoraMckinnon: #JustinComeToItaly ma anche no. Ne facciamo volentieri a meno ;)” grazie perché c'aiutate lo stesso 😘 #…
+@JBswagonyou - RT @walkinthestar: la semana que viene va a ser un caos
+@Aero_vs_Aaron - 🐱💘🎀- hmu some times don't be fake 😊 can get to know each other
+@FataleGyal - RT @Constance_972: Être au téléphone le soir ✌ .
+@cosmiCllll - 1時から2時 3時から4時
+@jaynoz11 - RT @Goody70: However much I'd enjoy it I can't see oasis getting back together as soon as people are saying...
+@iCarly_BRnick - @LoverTaques 👍👍👍
+@rik_pg - したまつげにマスカラ塗るとき歯間ブラシ使いたいニンゲン
+@PatriciaLazca - Europa League Benfica y Sevilla se acercan a la Final http://t.co/ev3PDb7i5N
+@QPassing - RT @sssDoes: 普通のゲーム会社
+｢これくらいならクリアしやすい？もうちょっと下げようか｣｢いやいややりごたえが｣
+
+フロムソフトウェア
+｢これで死ぬかな｣｢死ぬだろー｣｢じゃあここにもう１体追加しよう｣｢せっかくだから超つよいやつな｣｢皆殺しだ！｣
+@thecolorlaura - @Rachael_Noone95 SHIT IT'S DSTOUT
+@3388Asd - RT @ptk: الان ولمده اسبووع بيع متابعين (اجانب&وعرب)جودتهم عاليه وثابته مع ضمان عدم النقصان الواتس اب 
+0552333324 
+
+http://t.co/M1Gl8q180E
+5…
+@HallingGeorge - RT @TooMessedUp: Africans have the best drinking games. Like, "The last one to find water dies"...
+[Thu Apr 24 22:41:13 UTC 2014]Stream closed.
+Stream closed.
+Relevant discussions can be found on the Internet at:
+	http://www.google.co.jp/search?q=a8fd061d or
+	http://www.google.co.jp/search?q=00070a0c
+TwitterException{exceptionCode=[a8fd061d-00070a0c a8fd061d-0007099a], statusCode=-1, message=null, code=-1, retryAfter=-1, rateLimitStatus=null, version=3.0.5}
+	at twitter4j.StatusStreamBase.handleNextElement(StatusStreamBase.java:199)
+	at twitter4j.StatusStreamImpl.next(StatusStreamImpl.java:57)
+	at twitter4j.TwitterStreamImpl$TwitterStreamConsumer.run(TwitterStreamImpl.java:478)
+Caused by: java.io.EOFException: Unexpected end of ZLIB input stream
+	at java.util.zip.InflaterInputStream.fill(InflaterInputStream.java:240)
+	at java.util.zip.InflaterInputStream.read(InflaterInputStream.java:158)
+	at java.util.zip.GZIPInputStream.read(GZIPInputStream.java:116)
+	at sun.nio.cs.StreamDecoder.readBytes(StreamDecoder.java:283)
+	at sun.nio.cs.StreamDecoder.implRead(StreamDecoder.java:325)
+	at sun.nio.cs.StreamDecoder.read(StreamDecoder.java:177)
+	at java.io.InputStreamReader.read(InputStreamReader.java:184)
+	at java.io.BufferedReader.fill(BufferedReader.java:154)
+	at java.io.BufferedReader.readLine(BufferedReader.java:317)
+	at java.io.BufferedReader.readLine(BufferedReader.java:382)
+	at twitter4j.StatusStreamBase.handleNextElement(StatusStreamBase.java:85)
+	... 2 more
+[Thu Apr 24 22:41:13 UTC 2014]Stream closed.
+Stream closed.
+Relevant discussions can be found on the Internet at:
+	http://www.google.co.jp/search?q=a8fd061d or
+	http://www.google.co.jp/search?q=00070a0c
+TwitterException{exceptionCode=[a8fd061d-00070a0c a8fd061d-0007099a], statusCode=-1, message=null, code=-1, retryAfter=-1, rateLimitStatus=null, version=3.0.5}
+	at twitter4j.StatusStreamBase.handleNextElement(StatusStreamBase.java:199)
+	at twitter4j.StatusStreamImpl.next(StatusStreamImpl.java:57)
+	at twitter4j.TwitterStreamImpl$TwitterStreamConsumer.run(TwitterStreamImpl.java:478)
+Caused by: java.io.EOFException: Unexpected end of ZLIB input stream
+	at java.util.zip.InflaterInputStream.fill(InflaterInputStream.java:240)
+	at java.util.zip.InflaterInputStream.read(InflaterInputStream.java:158)
+	at java.util.zip.GZIPInputStream.read(GZIPInputStream.java:116)
+	at sun.nio.cs.StreamDecoder.readBytes(StreamDecoder.java:283)
+	at sun.nio.cs.StreamDecoder.implRead(StreamDecoder.java:325)
+	at sun.nio.cs.StreamDecoder.read(StreamDecoder.java:177)
+	at java.io.InputStreamReader.read(InputStreamReader.java:184)
+	at java.io.BufferedReader.fill(BufferedReader.java:154)
+	at java.io.BufferedReader.readLine(BufferedReader.java:317)
+	at java.io.BufferedReader.readLine(BufferedReader.java:382)
+	at twitter4j.StatusStreamBase.handleNextElement(StatusStreamBase.java:85)
+	... 2 more
+[Thu Apr 24 22:41:13 UTC 2014]Waiting for 250 milliseconds
+@Yoongnah - imy
+@Hendrix_Yopli - Enfrentamientos dejan 7 muertos en Tamaulipas http://t.co/SmWNVZra85
+@mynamesmadeline - RT @xgiannax_: @mynamesmadeline lmfao 😂 that's like my brother
+@al_njajary - RT @HisyamDot_ID: You are my biggest motivation to get up in the early morning.
+@ValenApestey - RT @camiandriani: me acuerdo cuando me dijo que parecia un angel con las chicas nos miramos y nos reimos abusoo
+@SEI_Mikey - Mark Bell is back up and pulling 1.5 meg down and 0.30 upload
+@________MKC - RT @BlasianJas: 😳😳 http://t.co/drTpqvIJek
+@chungstyIes - RT @yeezustins: @chungstyIes here are the times also just in case you wanted to know http://t.co/TwYUm5PGSg
+[Thu Apr 24 22:41:13 UTC 2014]Establishing connection.
+@zcquintela - good friends lng ba? or very good friends? :) — Very good friends. Hahaha! http://t.co/3C8LTHbhpg
+@JC_paradaisu - RT @adidas_fanfan: ヒョウ柄adidasシューズ♡
+
+http://t.co/hpw741amFB
+@bestlarry98 - RT @LookAfterYou17: Caro Diario,
+mi si spezza il cuore ogni volta che trovo una fan su twitter che mi chiede di seguirla.
+Un giorno vi segu…
+@NAHUUHPATERNOST - RT @violeisenmeier: @NAHUUHPATERNOST JAJAJAJAJAJAJ si, por gil ahq
+bueno, vos espias chicas, y yo espio chicos(?
+con los diaros JAAJAJJAJAJ…
+@hoshi_oto517 - @taro_0713 えー(´･_･`)
+いいじゃんよー！笑
+@ypapak - @1332chan 
+まぢのすけ⁉︎元男バスめっちゃみるのにσ^_^;
+今度声かけるね‼︎
+@youOTTEknow - Dinkers for dinner. Best burger in town
+@mberrres - @rayrayrud @KayPfef idk your phone is messed up Rachel
+@itsmichelli_yo - RT @highheel_porn: http://t.co/06vPA5XgYu
+@SarcasticBittch - Well its kinda true if you see #15 and #21 http://t.co/2DUl7gzqkK @SarcasticBittch
+@jor_rosania - Very good news about my young friend Guillermo. With your help he found a bone marrow donor!! http://t.co/Mz1QwDBQK9
+[Thu Apr 24 22:41:14 UTC 2014]Unhandled event: {"disconnect":{"code":2,"stream_name":"sergmor&mjc2IDFZEALQV1Kof6KRBeunD-statuses7371300548888810375","reason":"duplicate of sergmor&BWGYiRF3qE71gKoX6le3Ue5jK-statuses7371301879540145800"}}
+[Thu Apr 24 22:41:14 UTC 2014]Connection established.
+[Thu Apr 24 22:41:14 UTC 2014]Receiving status stream.
+@RiveraVvpp - He recogido 1 Perg.... ¿Puedes superarme? ¡Descarga el juego y demuéstralo! http://t.co/4jvUIPKt5B #android,#androidgames,#gameinsight
+@_kadirkocak - Canon 5D Mark 2 çok iyi amk
+@_CindeRELLLa - @IamKing_AC apples to oranges babe
+@Kcerro76 - Just want someone to give me a hug
+@pethalaa - só arranjas confusões, natas do céu
+@21Noha - ماأقبح اللوز يقطع الحلق 😣
+@qwertt107 - @falh1388 اهلن اهلن
+@x_highoffLETTAA - RT @DreadHeadAnt: New Impressionz Fuckin Crank Idgaf What ANYONE Says 💯💯💯
+@Mlcr07 - RT @NiallsNotes: Foto de los chicos ensayando en la prueba de sonido en el estadio El Campin. #NiallsNotes http://t.co/IWCVwzO9ga
+@brucey_bugatti - RT @JustinMurray_: I lost alot of friends and they not even dead
+@laurafnadeau - Just realized that Kilimanjaro is a little over four months away... I think it might be time to start some serious training.
+@Maaribrandao_ - @marianabraz_ Agora não kkkkkkkk ai q vergonhaaa
+@SaraElizabeth_4 - Can something interesting happen now?😂
+@_jessou - RT @Houstaf: Constitution des Sons a JUL  :
+50% D'autothune
+50% de Merde
+0% de Lyrics
+0% de PunchLine 
+
+#JaiMalAuRap #JUL #CestLaHessCommeZ…
+@isntdave - @ChrisDarby89 ouch :( devon was just a super last minute thing over the bank holiday, I don't swan around for fun in the week (much)
+@porradessa - @AdiosGui E humilde 😂
+@linda_rbs - RT @tomhall_photo: Share this tweet and the law of attraction will reward you. Ha, just kidding - it won't, but it might reward me ;) http:…
+@LaloArgaaraz - RT @_LegitMutCops_: @Eminem_of_MUT @_bucsfan4life_ yea I know just realized that refollowed u
+@KaiTakumikai3 - @kiki_020507 
+これからよろしくお願いします♪
+@Firerflis - Que fastidio querer ver una película y que el internet se ponga estúpido.
+@Nasser_A93 - RT @_hope7: 😞💔 http://t.co/e9FrWmrZvH
+@_smah11 - RT @w55: ➊ فولو مي @w55
+➋ رتويت
+➌ فولو للي عمل رتويت✔
+➍ فولو باك✔ 856
+➎أشترك بالريتويت لحسابك
+ بالدخول لاول تغريده في المفضله #ريتويتكم_الم…
+@LauraLeighD3 - #RealRockVariety @939theriver x50
+@ScoutTheBoss - RT @taylorleigh1996: "Sunshine, blue eyes, tan lines," ☀️🌴
+@Kevin_Jackson00 - @justinleonardoo thanks bae😘😘
+@__leeeennnnn - Finally home from work
+@anitaceleste11 - RT @iUnWeyCursi: Quien juega a que lo extrañen se arriesga a que lo olviden.
+@RomyJelg - Enfrentamientos dejan 7 muertos en Tamaulipas http://t.co/6QKqzS7S6a
+@relacionavel - RT @SouPositividade: Na moral? Daria tudo pra estar com você agora.
+@RoddaTyler - @Twinsanitydad I do! Love that Taco Bell has diet Baja blast!
+@potyataro1027 - @butter_taratara 
+わたしもよ///
+@akashick91 - 自分は不幸だとアピる女がいる
+@Noahh_Inez - RT @Big_Lzz: 😂😂 Noah knows
+@itmacapprank - Australia Free 19. RAR Extractor Free - qing qing yu http://t.co/OVv0GEgx6S #Mac
+@Aniita_Yolandha - lesuh :(
+@beasty_omar - RT @SickkBrooNestor: Menti - Remmy Valenzuela👌🎧
+@AfifahRohani - RT @ImamHafizBilal: The Prophet of Allah SAW said, "One with good manners can attain the same level of merit as those who spend their night…
+@WahyuNasuseason - Enggak cit"@yossiemaria_: medica ya? RT @WahyuNasuseason: Di iskandar muda cit"@yossiemaria_: @WahyuNasuseason bimbel dimana ko ditak?""
+@shi_12579 - 今日は起きたら8時であー学校行っても間に合わないやー♡ってなる予定だったのにあれなんでわたし東海道線待ってるの（＾ω＾）
+@Sandym5555 - RT @Oak73: RETWEET this pic for a chance to WIN an @Oak73 $50 gift card. So simple to enter. #contests #retweet #rt http://t.co/bJU9KGlg8P
+@MagedEltaher - @genesh94 خش فئ الموضوع الموبايل بيفصل :D
+@madidonko - “@channytaughtme: I don't even want him anymore. I want the person he could potentially be but that isn't realistic”
+@B0rnWinner - @HighFromAtlanta I'm joking like 50
+@ynkm_kappa - @tsubasaaku1 てらっしゃいな！
+@_lovelyarianaa_ - @JaiBrooks1 ilysm
+@AdoreKeira - @TheyLoving_Daz bye bitch
+@mayakorilakkuma - RT @AibouNow: 【今日の流れまとめ！】グッド！モーニング⇒モーニングバード！⇒前売券最終日なので買いに行く⇒徹子の部屋⇒ワイド！スクランブル⇒相棒再放送⇒スーパーJチャンネル⇒オールナイトニッポン（ラジオ） これであなたも相棒通！ #aibou #tvasahi #…
+@Julie_andersson - "@argentinasdiosa: ¿Como les fue en el desfile de ayer?@GiuliMaglietti @noelisrios @Julie_andersson @melinapitra" barbarooo graciass :)
+@_Brunette_Baby_ - #psychedelic 🌀🌻👽🌞 http://t.co/ZoxvrgMfgu
+@MissSamantha49 - Partying in Milton Keynes tonight, come join us xxx RT for more #hot #dancer #sexy #pheonix #naughty #boobs #girls http://t.co/rDs5FJBU2k
+@_maspoxajuu - Se Renata n ficar cm esse grt , eu do na cara dela na moral
+@ely_suarez - RT @JorgMetzger: 3era reunión GOB-MUD 11 opositores presentes,cancilleres de Brasil y Colombia. Y victimas 11-A 2002 ?? #24A http://t.co/LV…
+@m_m0326 - @Real_Liam_Payne 
+
+りあむ(←It's your name🙈👑
+Liam of Japanese🎌💖🇯🇵💋
+🗼🎉🗼🎉🗼🎉🗼🎉🗼🎉
+🎉Japan needs WWA tour🗼
+🗼🎉🗼🎉🗼🎉🗼🎉🗼🎉 http://t.co/LtMMXuZJAI
+@Hertz_Alertz - who nows a good movie on netflix
+@YesImGod - Time Of your Life.
+@pqbatiman - RT @DialetosCiumes: estou apaixonada por esse tumblr http://t.co/v0OE1SWoTX
+@JSWardell - ."If you can personalize, individualize, go after an individual it can work. [@senatorReid] has said some awful things" @FrankLuntz #Haction
+@Meriucchi - @Amuricchi @Amuucchi tHENKSSS ((((SWEATS NERVOUSLY())))
+@jenicatoledo - Shouldn't you know by now, you don't mess with pregnant woman.
+@agoosbagnasco - Dale, quiero leer que hacen happily, little white lias y half a hart dale dale pls
+@bossofdrew - RT @JaiBrooks1: hey I love u all cheers for makin me happy : )
+@002Noorah - ﷽  "إِنَّ اللَّهَ وَمَلَائِكَتَهُ يُصَلُّونَ عَلَى النَّبِيِّ يَا أَيُّهَا الَّذِينَ آمَنُوا صَلُّوا عَلَيْهِ وَسَلِّمُوا تَسْلِيماً". ﷺ
+@wiamAmz - RT @ImaaneKrm: @wiamAmz @_LisaMld mdddddddr vous aller avoir un debat de thé la
+@humoralizado - RT @DialetosCiumes: estou apaixonada por esse tumblr http://t.co/v0OE1SWoTX
+@abuzei - RT @DialetosCiumes: estou apaixonada por esse tumblr http://t.co/v0OE1SWoTX
+@defensescienti - RT @iamDavidAjala: #blackbox premieres today! #blackbox @blackboxbts http://t.co/sr8aH9H9Vn
+@JuanKaGuzman96_ - Si Como Nadie Te Fuera Visto Hp!!
+@ChaeeAML - Cariproduk fisheye clip jktlow under 95k
+@Duglass23 - RT @B0RRACH0S: MI PARTE FAVORITA DE HALLOWEEN ES CUANDO LLEGA SANTA CLAUS Y SE LLEVA TUS DIENTES.
+@Madeirasta - @safira_safiraa
+mbak elsa boleh,gk aku dtang krumahmu..?
+@jntl_man_1 - RT @s3udalnaiif: صحيح  لاقـالـوا  زمـانـك  تـحـول
+والفوز طعـمه  مثـل  طـعم الغليبه
+
+وان كان مايشفع لنا الطيب الاول
+طيب السـنين التـاليه وش …
+@DocesRelatos - RT @DialetosCiumes: estou apaixonada por esse tumblr http://t.co/v0OE1SWoTX
+@twdoido - @burst1ng É ADOREI
+@heatwhoran - @httpsharmonyz ta bem, te amo, bjs
+@myu_J - RT @Tamon_Hinosika: めっちゃ変なところで居眠りこいてる娘のラスボス感を盗撮したwwww http://t.co/0kx6HUyUZd
+@AH_probs - RT @yaboybillnye: http://t.co/dYSe6tXDCA
+@TurkcellHizmet - @cigdemkkk Konu ile ilgili inceleme yapabilmemiz için http://t.co/M8hhFqlbji adresinden detayları paylaşabilir misiniz?
+@mokotamyu - おはよーございます
+@3zizitti - #غرد_بفتوى التصوير  http://t.co/qh2KO22Kyc @tweetfatwa
+@series701_N7 - @rumwo_grkb ただ鍵垢な模様
+@asaf1f - RT @f_l_b_k: 🔷http://t.co/tDb3YgorRx #اطول_نومة_بحياتك_كم_ساعة #جملة_مصرية_تكررها #يسبب_لي_صداع #سجن_وجلد_محمد_شنوان_العنزي #هوامير_الدعم_ا…
+@rufus_fanbot - @nyo2_s 起きたのか、nyonyos子。よく眠れたか？
+@kisuke_hegw - 音ゲーマーはきれる
+@VodkaExtreme - RT @DialetosCiumes: estou apaixonada por esse tumblr http://t.co/v0OE1SWoTX
+@gpftumj20c0p4f - 【無料情報】自然に女性を惹きつける色気の出し方
+https://t.co/HGhCWaPk3P
+@CiumesEterno - RT @DialetosCiumes: estou apaixonada por esse tumblr http://t.co/v0OE1SWoTX
+@rekishi_tweet - RT @0susume_app: ファミ通でも評価が高い
+新作3DRPGがヤバイ♪
+
+iPhoneもAndroidもここから
+→http://t.co/uP5IG2aodc   
+
+派手なスキルと新感覚の
+バーストシステムで遊び尽くせ！ http://t.co/tAoQJPxV…
+@1Demig0d_ - @ozadiadirection hehue' eu guardo minhas barbies até hj, pq msm q eu não brinque eu não gosto de jogar minhas coisas fora HUEU
+@loukisshemmo - RT @Michael5SOS: @Calum5SOS http://t.co/z6n4byRJ
+@karmahime - タブレットに膝蹴り
+@laura_racette - RT @RelatableQuote: Mom: your rooms dirty  
+
+Me: then stay out of it http://t.co/Nj7X3clgpA
+@JaidahB - RT @TheHustleEmpire: #GraphicVixen > @JaidahB < Visit http://t.co/eVCUBKuLYP for more info. #SupportTheHustle
+@yooooooonggahh - RT @CNBYonghwa: [VIDEO] Still pv in    
+YinYueTai >>http://t.co/W0MMEaPtqe
+Youtube link >>https://t.co/K4UUMAZLwV
+@Chelny - @jaibrooks1 Thank *YOU* for making me happy. Thanks for Following. I'm still waiting for @luke_brooks, @James_Yammouni and @danielsahyounie.
+@yolisipo - RT @angelinosevilla: @yolisipo lo que me toy riendo con vos esta tarde jajaajajaajjaajajaajajajja te tiran la caña desde otros paises ya
+@TrechoMaligno - RT @DialetosCiumes: estou apaixonada por esse tumblr http://t.co/v0OE1SWoTX
+@SirKasket - RT @Myguelgo: Yo cuando despierto y me doy cuenta que olvide cargar mi celular. http://t.co/M8kKIG5u9v
+@haduki_08 - @hiroehon オゥ……( ﾟ∀ﾟ)　
+靴下では、よくやる（笑）
+つま先とカカトがなるね！
+@breezian - RT @JayyJayda: it's me,
+your girl
+your life 
+your world.❤️😭
+@Aw8att - RT @945: Ⓜ① فرصتك
+Ⓜ② لزيادة عدد متابعينك
+Ⓜ③ رتويت
+Ⓜ④ ضيفني@945
+Ⓜ⑤ ضيف من عمل رتويت
+Ⓜسجل معنا في الرتويت التلقائي مجانا
+http://t.co/f8qyRzd1…
+@Congost3 - RT @MaximeFerreer: 💘💘 http://t.co/rZLW5ZphWW
+@bah_laaanca - RT @DRAWlNG: Hurtful http://t.co/Lx3GYSdsIB
+@UCD_Connectwork - @Medcastaway Old is when your life insurance premiums exceed your auto insurance premiums.
+@SomeJuann - Gonna go ham and do some work tomorrow at the indoor tournament 💪💪⚽️🏃
+@yunotti_ - RT @yayousa16: ペ  ッ  ト  ボ  ト  ル
+     ビ  ン  ・  カ  ン
+S    T    A    P    細    胞 http://t.co/Psd13eAaUj
+@blueirislou - RT @Louebear: THE LINK FOR THE WWAT LIVESTREAM 
+
+SPREAD IT FASTER THAN YOU SPREAD RUMORS
+
+http://t.co/VMMTDKd2Cb
+@lemosha__ - RT @hussein0863: آلآخلآق بدآية جمآل كل رجل ..!"
+@hppiIy - SER FÃ DESDE 2012 DA UMA DOR IMAGINA QM E FA DESDE 2010 E VER ELES CRESCENDO ASSIM TAO RAPIDO EU NAO QUERO
+@CiiscoKiid - Ppl drive like fucking idiots , it's just rain the world is not fucking ending jesus
+@ShineManoela - FICA FICA FICA UM POUCO MAIS
+@_NathyAlexandre - Vou trabalhar, bjo
+@Jpl_perites - Felicidades @adribonachera ! Que te lo pases muy bien 👌 j
+@PORNOsotras_ - Un novio que siempre me cante >>>>>>>>
+@TU_PAPI_200 - apoyeme por faaaaaaa
+@Kogasa_squall - 援護は任せろーっ
+@Ana_Lemda - @rababtymuhammed 
+هههههههههههههههههههههه بنحب بعض و كده :D
+#ملحوظه انا لسه كنت بشوفه و كتبتها والنعمه مش حرميه :D
+@tylxroaklxy - RT @itsKatieThomson: Everyone's going to be leaving me at once 😭
+@stephanie_TDBG - une image parfaite de l'idéal
+@jmerino6 - dave said he'll roll up tonight. 😤👀
+@karimitateadora - To el rato con el 'mal din mok' o 'mal jed buak' en la boca JAJAJAJAJAJAJAJAJA CRACKS
+@El_Solteron - Gym then go play baseball after 💪⚾️😏
+@LoveBlaake_ - Le Kid Ink de Crash Landing >>>>>>>>>>>>
+@QueenDeeej__ - I'm lonely for whaaa thoe ?
+@francesca_hb - 早起きアンデッドフランチェスカデス！おはちぇすか！朝陽が眩しいデス(・ω<)
+@jiyonggs - RT @taeyanggs: voce sempre entra rt @jiyonggs ngm me chamou na conversa mas né
+@geryoriana88 - @Frec_Latina saludos a mis hijas geri y orianna y un beso a mi amor rosa vamos peloton
+@Natalia_V_O - RT @UnCuriosoDice: Juzgame cuando sepas algo mas que mi nombre.
+@Johann_ATO - Faculty and Staff team at #BattleoftheChefs! http://t.co/10hTFKltYs
+@Shedab80 - RT @marvonna: We are Ready.. Are you?? #marvonna #dancecompetition #dance #Chattanooga http://t.co/fCuOdsFLyV
+@CVL_Junyo - @ScarletBranch ……え？
+@RubiuftYolo - @FanDelRubiusD @Daniix3_123 @_C_D_S  jajaja te tiendo la ccama XD ( ͡° ͜ʖ ͡°)
+@InikeIKHE - Morning world☺
+@peezyfbaby_ - My mom just told me I have too much down time f u
+@avonsbeaut - @AustinMahone hii austin! How are you? Please could you follow me? It would make me extremely happy! Love you🙊🙊💕💕💕18
+@patridogliolo - Aca hay cantidad mosquitos!
+@itsmelesa123 - RT @WGRZ: 4th graders caught selling pot at elementary school
+http://t.co/UHvFTI6r2l http://t.co/knyFJsX5aO
+@Nati111616 - RT @HechosConAmor: "El que no arriesga, no gana."
+@CesarCuba5 - 17/27 #NBLAlinaVoto #NBLAlinaVoto #NBLAlinaVoto #NBLAlinaVoto #NBLAlinaVoto #NBLAlinaVoto #NBLAlinaVoto #NBLAlinaVoto #NBLAlinaVoto
+@HappyKurnia1 - "@WOWFakta: Air yang keluar dari hidung saat kita menangis adalah air mata."
+@hshw2 - @k_10mu 
+الإختبارات بكل أنواعها مخيسة💔
+@KkazuW - 最悪や(｡-_-｡)
+急いで出たら忘れもんしてもうたOrz
+@midosm - A ‘Corporate Raider’ Tries to Correct the Record http://t.co/meccqmVedk
+@Sidney_43 - RT @BiancaMachado43: @Sidney_43 numa festa aproveitou e me comeu
+@jwywang - "@0309yes: js: mark looks cute but inside, he's really manly
+
+OF COURSE YOU WOULD KNOW THAT"
+@madammayortoyou - @goodalwaysloses I've been trying with the medicine. *thinks, then gets you off the potty to wipe you clean & pull up your jammies* Okay,--
+@bizyo_rt - RT @hinnnyu_izyou: Twitterでは少し荒ぶるとすぐ盛り上がってくれるのに胸は一向に盛り上がらない不思議
+@ppkbieb - RT @magcontrato: essa gente que fica tweetando que seguiu alguem e ganhou seguidores meu filho ninguem quer saber vai fazer um tratamento p…
+@kamigami_play - RT @proanti_ageing: 絶えず恐怖や心配や怒りや憎悪や失敗のことばかり考えていると、あなたは意気消沈して不幸になります。
+@Fiona_Allan - @FionaLondonarts @TricycleTheatre well you just wouldn't, would you??  Great show, we loved having it here in Leicester too.
+@Coopway_way - @Landra_Get2it ya sorry bout when I did that... I just felt bad not acknowledging them!
+@kikii1010 - RT @iBlali: Es gewittert ja nie, doch wenn, dann genau dann, wenn ich aufnehme #Schicksal
+@SLOFERM - Stats for the week have arrived. 1 new follower and 2 unfollowers via http://t.co/6Xn22sRyDz.
+@adel05558 - RT @a305aaa1: لزيــــادة متابعينـــك 
+⚪ ريتــــــويــــــــــــت
+⚪ تابعنـا لنتابعــك الآن
+⚪ تابــــع مــن يقـوم بالريتويـــت
+@viryou_sky - @syrup_0w0 ごまこさんおはようございます＞///＜♡♡♡！！
+@AntoMontoyaL - RT @AntoniaLeonart: @CocaCola_CL  #CocaColaFMMeLlevaA1D @AntoMontoyaL AMO A ONE DIRECTION y punto, nada mas que decir. quiero esas entradas…
+@salbethan - jenny humphrey has changed
+@clopafc - Beautiful cousin Rubie-Mai Elizabeth Wilson.. Her hair got long enough to be styled 😂❤️❤️ http://t.co/HSgRVayEQM
+@Somosmagia9 - ¿Alguien? Hay para todos 😉👌 http://t.co/9NMAJHBgeW
+@AlbaCoronel11 - A entrenar.
+@stylesnirvxna - RT @WWATinfo: i cant help but feel proud of our insane fandom when i see the amount of security in front of the stadium in bogota http://t.…
+@one_jano - RT @JaiBrooks1: hey I love u all cheers for makin me happy : )
+@Obey_Zahh - RT @Ayeezy__: Rose, Garcia & Minaj 😍😍😍💦💦 https://t.co/MzisflMVEq
+@M_alpestris_01 - @CatHiroc ん、もう起きたのか？　まだもう少し寝ていてもいいんだぞ？　
+くく・・お前の寝顔は見飽きないのでな　いつまででも見ていたいと思う
+@Gemz_PTY - @GabyMorenoD TIEMBLAAAAAAA EUSEBIO!!!! xD
+@niquemijada - Ei princesa levanta a cabeça se não a coroa cai
+@aimeeohallorann - Ur so precious please luv me
+@euleei - Un dias me amas, luego me olvidasss
+@mdmd0000 - @arb3enia 
+ايه اعرفة هذا
+@thosonossodl - I STILL BELIEVE IN LOVE, I STILL BELIEVE IN US QueremosRestartNoCQC
+@Karuufr - Vi un vestido de 15 y me enamore. Mi vieja dijo que si lo quería ella, me lo conseguía (': aaaaaaaaa
+@elganayny20111 - @AhMedhassaNJuv تفاح
+نعناع
+عنب
+@CristinaCMauryn - @TiTo_Carlos_1 estoy deseandolo, buenas noches pequeño :)
+@AnjaaaliPaaatel - @rachelmariepuca yea, kinda lol
+@JuampiValdivia - a la mierda el orgullo
+@racingelements - RT @Craig_O_F1: Best. App. Ever. It's called Racing Elements http://t.co/Vv47Wqpc10
+@rosevogue16 - Photo: booriful: Perf http://t.co/wToYTsKcuq
+@Natprbarbosa - "Rony, você estragou tudo"
+@apocalypse331 - 個人的ユナンクラスタは多分こうだまとめ
+・姿は見えずとも「ユナン」という単語が出てきただけで超幸せ
+・本編で出てきたときはリアルで叫ぶ
+・影絵だけで萌える
+・ルフに愛された伝説の魔法使い～や、特別な力を持った魔導士～など遠回しなマギの説明だけで萌える
+
+…はい、全部私のことです
+@forpollo - RT @tomim_pollo: http://t.co/WXdZv12WvT - OPRES
+@1D_MollieG - RT @snowonarry: At this point there are gonna be more and more people coming in.
+
+"I was here before wwa"
+
+#WWATOURSTARTSFOLLOWPARTY http:/…
+@UnaInfelizMas - Yo quiero el Whats de Jack. Indirecta directísima.
+@AudiDreams - RT @curtismartin254: Spoon hottest nigga in the city
+@Alejand04208862 - Like Nigga Don't You See I Want To Talk To Your Cute Ass.
+@xcbabycakescx - RT @wildthafukkoutt: Emojis can change ya whole conversation "when we chillin?" And "when we chillin 😏😍💦🙈?"are two different things 💯💯💯
+@CriticalFail_ - RT @esperolamuerte: http://t.co/OaSF3bQJpt
+@thekamil909 - @onhazz okeeeeeeeeeeeeeeeej :D
+@rizerus - ナンパ
+
+"そういえば先日友人が「ヘイ彼女！　俺で妥協しない！？」
+という新手のナンパに遭遇したとぼやいていました。"
+@AdrianL_ - RT @IngenieroFucker: ¡¡¡Hijos de Fourier, alzad vuestras calculadoras!!! ¡¡¡YA ES VIERNES!!!
+@krlsalvatore - veronica poderia mudar de escritora pra assassina
+@firemills - ajoelha se prepara e faz um boquete bom
+@SoniiaMurcia - @PaulaPerezN15 muchisimas gracias paulicaaa!! El año que viene te quiero con nosotras!! Un besazo ♥
+@MrBravoh - Ayo im tired of using technology i need you right in front of me
+@hkheadlinecom - 美股中段升25點 (港聞)  2014-04-25: 　　美國股市周四早段反覆偏軟，杜指一度跌穿一萬六千五百點。烏克蘭局勢進一步升級，避險情緒升溫，大市走軟。  通用汽車公佈首季業績，純利為一點○八萬美元，按年暴跌百分之八...
+@consejeraguay - RT @DaniTimofte10: Yo creo que esta foto se merece difundir por el apoyo a Tito y todo lo que nos ha dado, difundir porfavor, #AnimoTito ht…
+@ro_fee - RT @RT_202_0: ✳     المتواجـديـن✔  ✳     لزيـادة متابعينكم✔ ✳ضيفـــوا مــن يقــــوم بالريتويـــت✔  أشترك بالريتويت التلقائي http://t.co/pHF…
+@__BaabyJae - “@10x30_: @__BaabyJae thank you baby 😘” you're welcome Dani Poo😘
+@majimedana - 出会いたいなら、安心、安全のワクワクメールがオススメですよ！！http://t.co/AUEbTqlqyM
+@niallsmaboy - @JaiBrooks1 love you more bye
+@jorgebaez23 - “@SeanGetsHIGHH: @jorgebaez23 😴😴😴😴 http://t.co/WSn30gh4Pu”smh I'm upset
+@fatostwitero - RT @RimaPraEla: Como se eu não soubesse quem é falso comigo.
+@alli2962002 - RT @SiloSara: @ArianaGrande look I love you more 💘 http://t.co/Kva33zPQCH
+@LuanGeburt - - MINHA VONTADE E SAIR GRITANDO, PARA O MUNDO TODO OUVIR, "TE AMOOOO DEUS" <3  Pow, to muito feliz, feliz de... http://t.co/pFINpTU8Jc
+@aditya_k_adidas - @Nijaid political suicide
+@LexiBull - RT @ItsGirllCode: When a girl says "lol have fun" do not have fun. Abort mission. I repeat. Abort mission.
+@J_DaGr8 - #TeamBoosie
+@graceburgener - @LoganLandry2 @StealyAuston AUSTON wtf why'd you delete it
+@luisgerardogut1 - RT @ArelyTellez: Cuando dejas de culpar a los demás de lo que te pasa, recuperas todo tu poder. http://t.co/O419697hjZ
+@jcase_8 - RT @dankanter: #tbt writing Be Alright on the beach in Bali exactly 3 years ago today. #timeflies http://t.co/JxQoOdHTkL
+@lynd_sey1 - RT @RealDopePosts: Please http://t.co/7YZ3JP8OQw
+@Thank_god1996 - RT @945: Ⓜ① فرصتك
+Ⓜ② لزيادة عدد متابعينك
+Ⓜ③ رتويت
+Ⓜ④ ضيفني@945
+Ⓜ⑤ ضيف من عمل رتويت
+Ⓜسجل معنا في الرتويت التلقائي مجانا
+http://t.co/f8qyRzd1…
+@whiteley_sophie - @emmalouiselawx Haha! Girls... obv.
+@JustinAndLana - RT @LanaDReyOnline: Lana Del Rey's 'Once Upon A Dream' became the fastest downloaded track in Google Play history, being downloaded 352,000…
+@moochigea - ชานเทาก็ชัดเจน สีผิว โทษๆ (cr.  Yeolnyeomoon) #ChanTao http://t.co/najgxxflTT
+@LindsayEvelyn - What's your favorite movie? Wait, let's say ours at the same time on three! Ready? 
+One..
+Two..
+THREE: ShawshanSPIDERMAN! WOW uh huh me TOO.
+@Layoona_bandar - I just need a big long tight hug😔💜
+@neartolou - 'don't forget where you belong' live sarà qualcosa di spettacolare
+@Byounnie - .@SoraNoAtashi J'essaye d'avoir une vie.
+@JulianIglesias_ - RT @LucreeGomez: Buenoo tengo el inicio con Julian Iglesias
+@AMCWagers - @DylanDoesFiFa you doing that tomorrow?
+@S_ForSKOAL - Who needs wifi smokey got hotspot !
+@haileybienias - who wants to go to taffys tomorrow??
+@guadarangel06 - RT @lucho3008: #24A HACE POCO:  Asi estan las calles de #Merida #MaduroAtacaAMERIDA http://t.co/izQn6CvGRz
+@LauraGmz7 - JAJAJAJAJAJAJAJA ay señor lo q hay q oir Ozil al Barça.... ME DESORINO como al final se haga el trueque de verdad... #ElChiringuitodeNitro
+@NicoPincheiraa - #MeSientoBienCuando soy sincero y cuando salen las cosas bienn :)
+@gre420 - partiuuuu
+@AdriAzuaga - RT @_UnaTal_Lela: ¿Besos en el cuello? JAJAJAJAJAJAJAJAJAJAJAJAJJAJAJAJAJAJAJAJAJAJA. ¿A caso quieres que te viole?
+@larrysbrave_ - @mcfl0urry strONG Y HAPPILY
+@AdamGajko - @iz_theShizz it's okay we'll just hang out when you come home from school next time 😊
+@CardwellRick - Well my programmer finally got here for my jeep. Now I'm waiting on my harness bar to be delivered!!!
+@VannieEssa - Having An Argument About Who Should Ask Kendall If He Has Braces C; LOL
+@EdyAlanis - amo a betito emoxito
+@Shraykom - RT @mbuyabis: الزوج السعودي لي رد البيت هالحزه يسمع،،،لبى هالزول و راعيه
+و الكويتي،،،هااااا يييت
+
+و ويعاا زين،،،يعني منو اللي داش عليج هالح…
+@moco_milky28 - 絶対間に合わないやーつ。
+まじ学校行きたくない、なんで8時にみせにいかなきゃいけないの？
+朝から萎える。やっぱり里ちゃんがいい…
+@larissafariaas_ - RT @BabifanBritney: Let's go tweet
+Tomorrow Britney Will Dominate Vegas
+@asd20144941 - “@rowaf: ﷽
+إنّ اللهَ وملائكتَهُ يُصَـلُّونَ على النبي يا أيها الذين آمنوا صَلُّوا عليه وسلِّمُوا تسليماﷺ”
+@MarytineG - Sick and tire of it 😔 !
+@tinpontaBot - ぼくが騒ぐとシラフでもお巡りがくるという都市伝説
+@wrokssh - JV Boys VB - 1st game East 25 Guilford 15
+@bradleyharry_ - @sahyucci @biebzhalea dsl je ne te vera pas a la rentree
+@JRICAT - Linda Mensagem #COMPARTILHE!!!
+Aristóteles, filósofo grego, escreveu este texto “Revolução da Alma” no ano 360... http://t.co/YCRG9WXWwQ
+@amarselmi07 - جدوا بالدعاء فإنه من يكثر قرع الباب يوشك أن يفتح له. - ابو الدرداء
+@bernie_slimz - RT @victek1: Soon enough."@bernie_slimz: So u mean in d nearest future... I'll offer my visitor coda instead of stout? :D"
+@Tuhreyyy - RT @ComedyOrTruth: #WearPinkApril30th MEAN GIRLS ANNIVERSARY ONE WEEK FROM TODAY WE ALL GOTTA WEAR PINK SHARE THIS WITH EVERYONE http://t.c…
+@mnm_kyu - @sa_kh825 それいい！www片方ずつ担当で♡www←歌聞け
+@Sin_Opinkosu - わわわわわわわ今日帰ったらブースのチェックだあああああ
+@basar_169 - Başıma fermandır ama ağırdır.Sana bir gün misafirim.
+Metin & Kemal Kahraman - Meymane Usari (bahar misafiri) http://t.co/0xbroAqR62
+@blushingbabes - @shannon_farren hmmm, one sec. I'll text u bbz
+@marianaaaa19 - RT @Loucurinhaa: Nunca ninguem vai entender o que tu sentes ou fazes ate passarem pela mesma situação.
+@_katieeef - RT @CraveMyThoughts: waiting for my lucas scott http://t.co/76R3VIuvIs
+@TaeeTay - RT @lawdthatslay: when bitches that subtweet all the time talk about being "indirect" I be like http://t.co/ypL6tjktjN
+@amparo_bayona - RT @musicbizzle: tener de novio a justin, estar de aniversario y que te haga esto..
+re pelotuda yo http://t.co/CiyN1ReFNX
+@fashion_mens_co - RT @MENSFASHION17: トレンチにロールアップを合わせてみる！ 　http://t.co/CGVL1AzlM5
+@obeymejasmine - RT @GcDaGod: Had a long day 😴
+@lo_YOLO - RT @kayakilah: I really question why I chose to fuck with some of the ppl I fucked with.... Still tryna find the answers lol 😐😶
+@visaonoticias - Melhorias no trânsito do ABHU: veja no Visão http://t.co/dqGUzme39X
+
+http://t.co/AbcCVfzX0n
+@hi_i_ra_gi_nari - @kina_xxx 　ふふ、ありがとうございます、我が君
+@you_lorenita - @Luuct15 Felicidaadees (: Felices 16  , pasalo muy bieen (:
+@FlorVianaaa - @jjuru98 @LautaroBrum Ya encontre una definicion jaja igual tengo con Isabel!!
+@tatsu1207sts - @takaboboboboo わかんなー
+@yungeliballin35 - Boosie Is On 106 & Park
+@Jada_Wheeler - That's bae . Boosie booooo ! 😄😘😂😩💞💕 http://t.co/X1BnnBpbGp
+@rmaromao - RT @StuffNe: @rmaromao NAO SEI SE ME OFENDO OU SE ISSO ERA UM ELOGIO!
+@A_A_707 - شلون اشوف غيرك وانت عيوني ..؟
+@GrimsOfficial - @ShannenMarie_xo Grimmer - 2014 Freestyle < First Visuals Of The Year Shot By @WaveyNateID Take Me In & RT 🔊 http://t.co/3FSsQ8ZgpC
+@MarioonL - @Marine_Syz t'es mignonne 😘
+@MujdeAslan1999 - Bu ne iş bu laklak ?
+@yuzu2541 - 一限目は英語だからイラストかくしかない
+@awkwardmusican - So during choir today we were looking at Disney theories
+@JoakoPezzella14 - Joako se la comeeeeeeeeeeeeeee ♪
+@Mi__Amor1 - Was Knocked Tf Out In Reading,,😴😴😂😂👏
+@juliansimioni - hey #railsconf I have slides for you! https://t.co/JNlTzmAvnF
+@LucasBarenchi - Zorra.
+@fleuurvbrenk - goodnight! x
+@Nic0_Romero - INCREIBLE!!!! ACABO DE ESPIAR EL WHATSAPP DE MI AMIGA AQUI http://t.co/45UnNfMF7e FUNCIONA!!!
+@VeronicGunner26 - @_SebasVarona26  vale amor.
+@sdhgdereiure - RT @F_grooup: ⭕ لزيادة متابعينك بسرعـة ⭕ ريتويـــت التغريــدة ⭕ ضيــف مــن يقـــوم بالريتويــت ⭕ ضيـــف مــن يضيفـــك مباشــرة ⭕ فولومي - ف…
+@jdbcoisado - @justinpirigueto segui amr
+@Sofittopotra - RT @UnCuriosoDice: Muchos te conocen pero pocos saben quien eres.
+@meeeem191 - @OU__94 باسلك ماعليك 
+
+ذهب ذهب 《《 هذي ماتتسلك بنوب بنوب 😂😂
+@MaharaniYasinta - •·· ģσσd мσяиιиģ ··• semuanya ☺
+@lauraamezq_ - RT @PrinceRoyce: ¡Gran noche! #ElPulsoBillboard Conéctate a los @LatinBillboards a las 7pm ET Algo viene de @MiPepsi y yo #ViveHoy http://t…
+@felipeluchi - RT @zambininha: tava refletindo aqui o termo "despirocar" introjeta a mensagem de que soh possui sanidade mental quem possui um pénis, se t…
+@EmilyJoanne37 - @issy_lydia I often get confused myself, especially between sexualization and sexual empowerment! I feel like there might be a fine line
+@BaseballHCHS - Garren with a single to load the bases. No outs Hill up to bat.
+@Perugae - RT @freed4Catalonia: La DO Empordà supera per primer cop el 2013 els cinc milions d'ampolles venudes http://t.co/wTqK0WlUis #SiSi #9N2014 #…
+@Donnavkebab - RT @Citypadslets: #win a I Pad 2 amazing #giveaway. RT and follow to enter!!! Winner announced on twitter. http://t.co/sdwF6ma5cp
+@24rina1 - モイ！iPhoneからキャス配信中 -トラックなう♡ ( コメントよろしく♡ http://t.co/L8oGeM6ldR )
+@ok___11 - RT @Asr3_F_Back: الان اشترك بالرتويت التلقائي وادخل فرصت الفوز بـ 3000 متابع http://t.co/coyNIlBx4M 
+ 818
+@alicebradford_ - @hollyhump @LiamPritt BAZZALADS
+@SageC_97 - @stilllovespan oh cool
+@idklaura - RT @Melissalovestea: new video! Divergent review,please take a look,like & share ♡
+https://t.co/pwOIcrrpUA
+@mcfadden_cara - RT @alyssanicoleheg: @AlliHemmings69 @mcfadden_cara @ImDylanDauzat oh my god u should have said something to him
+@sydneykaaay - @AlexandriaDPark and never will 😊
+@daisymahone - @AustinMahone are you having fun ?
+@SifaaaNA - RT @jayantilestari2: Pagiiiiii
+@WadjetOsaka - RT @Trinity_Hexagon: マスゴミは、族議員がけしからんと偉そうに批判するが、真っ先にマスゴミ業界の族議員をなくしてからほざけ。http://t.co/B58FCpvj　#マスゴミ #読売 #朝日 #NHK #collusion #fuckmedia #自民党 …
+@NocturnalHeart - RT @TheFunnyVines: I'm dead laughing lmao https://t.co/W5xNUD1sJY
+@jhonjans_1 - RT @MikeNast: #ThisIsHardrock @Hardrock screws Defrauds @Candlebox http://t.co/BntbVvwWUg
+#BoycottHardrock @DavidMuir @BrianRoss http://t.c…
+@alwaysstay_tru - @_Brayy @fitch_dicky bitch ya phony ass know why
+@jackie_ovalle15 - RT @GirlMottos: "ugly teenagers become attractive adults"   
+
+*silently prays*
+@JulioRoach21 - @demibriannaa :-)
+@goffalana - RT @ImPajamaKid: me when I see ur face http://t.co/QZdGWUiG8A
+@NephilimsLight - [Jace grunted, pulling his head up to look at @LovelyTormentor.] I'll try to remember that next time.
+@113rn - @okr_dry その気持ちめっちゃ分かる！ しかも意味だけでなんとかなるし、結構進むよ(*^_^*)
+@EchoMskNews - Сотрудники правоохранительных органов задержали нескольких работников таможни в аэропорту «Домодедово». http://t.co/cvn6SaEKKW
+@LilyCaraza - RT @SoyOskarGuevara: - Cual es el momento mas triste de tu vida? 
+- Aun no lo e vivido! 
+- Y porque? 
+- Porque mi mama sigue viva♥
+@ItsJustBlondiee - RT @CatPornx: Get lost in these eyes . ~ .~ http://t.co/WyL8yfmB8u
+@makiusa1999 - 歌うまくなりたいw
+@alarra_star13 - @PastorJohnHPCC OMG
+@maralouise_1D - RT @NiallOfficial: I can hear you guys singing outside ! This show is gona be crazy tomorrow right?
+@amelie_2203 - RT @Zermina: Good talks the other day with my big bro http://t.co/lcSGUS3NZy
+@angelavasquez97 - RT @ElegantCraves: Would love to be here right now... http://t.co/e4G0nqrk1T
+@danny2911pt - @GatoDoSwag claro que sim foi o rir ahaha
+@onrdzgn34 - ...An itibariyle durum bu... http://t.co/o6WBWOIt67
+@evanniicole - lilys letters 💘 http://t.co/uVov2XoJlI
+@Mariana_2474 - Publiqué una nueva foto en Facebook http://t.co/oz1gvZM7e4
+@brenda291097 - fcoonedirection
+@nare_97 - Mama no me quizo llamar porque me vio cansada y tristes me dijo :P
+@Orneegi - Mañana ya es viernes y fui solo el lunes al colegio, semana cortisima..
+@Maaquii - Mañana capaz me de una vuelta por eL falcon
+@NinaaSilvaa - To vendo TVZ!
+@PollyBelieber6 - RT @justinbieber: http://t.co/nTXl4HsuII
+@teasoftie - RT @frufee: @teasoftie I love you too
+@madgareth1 - RT @josh_longer10: http://t.co/7121yW2QnG
+@alpacaniisanbot - ほらほらーっ
+@rsn_0712 - （´-`）.｡oO（キャンパスに草……可愛くね？！
+@infinitelovegu - pernilongo fdp
+@RafaaelJuan - RT @CherliMar: Si yo te pongo  esto ":)" te jodistes. 👌
+@TheQuiffOfZayn - RT @1DRockMeUpdater: The boys are now singing Diana at soundcheck! (via @HoranSecrets)
+@Thretcha - RT @day9tv: Yay!  $20,000 in college scholarships for gamers! :D http://t.co/y8H8on6jhh
+@wildroper - @Cmshield24 gee I gotta listen to country more lol nevertheless good lyrics
+@kawaii_minmin - @hiroche 姐さんおはよー。寝れなかったんやね。寝れないよね。時間経つと少し気持ちが軽くなるといいけど。。。
+ゆるゆるファイティン！←たまちゃんに教えてもらった。無理しないでね。
+@TheShield90 - @Klarice1312 hey
+@jennyann67 - RT @joshgerstein: After the strong words about Russian propaganda and social media, Kerry said he didn't have time for questions from the m…
+@itsDominiqueB - RT @YaseminBeygo97: @itsDominiqueB naah man. Bloody hell you're gorgeous
+@x_nawal1980 - RT @OLearnEnglishO: Support - 🔻 سابّورت ~ / بشد الباء / | دعــم |
+@amenww1 - @sawsanalkawarit @kasimf diyogjbufkddYyRe
+@yaprakagir - RT @cemadrian: Bir yerlerde birileri sevişirken, bir yerlerde birileri ölürken. 
+Sen biryerlerde uyumaya çalışırken... 
+Ben her şeyin ortas…
+@QtrMentions - RT @alraya_n: السفير الفرنسي في الأمم المتحدة يقول إن المبعوث الدولي إلى سوريا الأخضر الإبراهيمي قدم استقالته من دون الإعلان عنها رسميا. #ا…
+@_TRussMe - @Johnnyotf fasho I am bro
+@pinkunch - 秋刀魚にツナ⍤⃝
+@reallybiebur - @john SHOTS ITS ADDICTIVE! I ❤ shots. Look what i made for @shots. PLEASE FOLLOW ME! http://t.co/1VrG6fFSj0  434 http://t.co/h9iekWRPsw
+@Hello_bryaan - RT @blyth33s: My skin hates me
+@colombiantrashh - "@FlTFAM: Seeing improvements in your body >"
+@ShambolicLuke - RT @WeAreThePosh: All the best to @Gabs50Zakuani and his wife as she undergoes labour as we speak.
+@ElyyGomezPerez1 - RT @Louis_Tomlinson: All proceeds go to the charity so please dig deep :) http://t.co/k48CkSxG9N
+@DontGU_bot - @hyphen__life (⌒ー⌒)おはよう KAedeN ！今日も元気にがんばろうね！
+@oltna - @popo321s おだいぢに〜
+@b_nasty97 - RT @deIicately: we use words like swords
+cutting up each other's feelings
+leaving us both wounded
+and in the end, what did it solve
+@Huiling_Vamps - RT @okMute: Shit happens when you trust the wrong people.
+@itsclassygrande - RT @ArianatorBel0w: The Arianator Below Pre Ordered Problem
+@jonaswoost - @rachelpick wouldn't be a smart move for Rdio to be available to Shaw customers only, it's hard enough to convert Canadians to digital music
+@BIGSPITGAME - @DieselStanley not like a nigga doin that much better but when a nigga worked at hh Gregg you can make that off slinging one tv
+@_Spamonii - RT @PrincesssEden: What do you need in a guy? — Oh not that much...tall, nice, attractive, smart, respectful ya di ya di ya http://t.co/B87…
+@AlaynaBilbrey - RT @HayesGrier: Lake day http://t.co/oThxiugVj5
+@SirDailyDeal - RT @tomleykis: The restaurant in Chianti where, alone, The most expensive meal I ever ate: $2,500+ ! Also the BEST meal I ever had. http://…
+@WATTz_Lopez - RT @SciencePorn: VIDEO: How to defend Earth from asteroids http://t.co/4FpyjCehd0 http://t.co/mWaGFyryDq
+@ku_tter - @gyanuuuB04 がぬんぬ！おはやう！！！
+@0theunknown - @AilAvril ehh it's whatever
+@TrafficNgayon - MMDA ◙◙◙ I_are_Von as of 6:10 AM, EDSA NB: Taft-Kamuning (L) #mmda via MMDA
+@AlzateMariana31 - Solo hay que sonreír.!
+@bonnieburnett - I was here. I did. I've done, everything that I wanted, and it was more than I thought it would be.
+@AllezFarez - "Je te fais plein de bisous tu me manques et je pense fort à toi"
+@from_matilda - https://t.co/Ci3eP3B5mg  KATYYYYY PQ VC FAZ ISSO CMGGGG GATAAAAAAAA
+@Cigdemdc - RT @ocumleler: Yaprak sıkılmıştı ağaçtan, bahaneydi sonbahar.
+
+[Necip Fazıl Kısakürek]
+@bluejeanlou - STRONG I AM SO HAPPY https://t.co/8ztPpzCDnU
+@Live_Without_re - ahushasashahush vdd http://t.co/sOmiBvg1BM
+@juanse26061112 - jajajajajaja
+@Barbz_Didy - RT @Raby_Rose: Aloe Blacc il a une putain de voix
+@biaanccaa_ - Imma go drop your cookies off at ya house tomorrow after school is that fine? @melgotdajuice
+@MariaEspinel9 - Tengo a las mejores personas a mi lado:B
+@Resistenciablog - RT @BrancoSabela: Austeridad cristiana http://t.co/z9BoJnTYpm
+@AYE6l - RT @F_grooup: ⭕ لزيادة متابعينك بسرعـة ⭕ ريتويـــت التغريــدة ⭕ ضيــف مــن يقـــوم بالريتويــت ⭕ ضيـــف مــن يضيفـــك مباشــرة ⭕ فولومي - ف…
+@_Arleyanicole - Dat biiii sissy nobbyyyy
+@TwuisaJnior - como ceis tão
+@Mizki51 - ん゛ん゛
+@Brookelynn9244 - You can't let your daughter borrow $10 but you can go buy hoes?
+@LifeForSimas - ACEITA RITAAAA ADistanciaNaoSeparaMarLili
+@As708708 - そろそろ行くかぁ
+@assacinnatos - @ohstwart não por que é mais macho
+@OmNEtra - http://t.co/NWWlvgiuIv
+@Laaloune - RT @Mr_Tweetts: Une dispute de couple c'est chiant mais la réconciliation derrière est tellement gee que t'as envie de te disputer juste po…
+@zojiman - @TOSHIYATTO あっ！尿漏れおはよ！
+@arturo___1992 - RT @tetas_varias_: Vaya pedazo de mujer http://t.co/QoehDYFItj
+@ManuelGBTriana - RT @FootballSFC: Una imagen aún más clara de la mano del jugador del Valencia y el PENALTI CLAMOROSO NO PITADO. 
+
+#TurinNuestroDestino http…
+@TommyLorkowski - @LilsisMillmine happy birthday!! 😊☺️🎉🎊
+@smileofhaz_ - @amazinguys ELLE A PLUS DE BATTERIE
+@marianaapipoca - RT @ItsFoodPorn: Cookie Dough Ice Cream http://t.co/94duiffIwW
+@trotro19 - @dr_bdeirat في الحقيقة يا عبد الطاغية لقد زأرت الأسود؛هل تسمع صوتهù
+GAME_OVER
+@Bitch__Monster - Acho q vou pro hospital hoje :(
+Xorosa
+@moo11r2 - RT @znm10: {ثم كان عاقبة الذين أساءوا السوأى أن كذبوا بآيات الله وكانوا بها يستهزئون} [الروم:10]
+http://t.co/wZljhdLbcO
+@HadukiYOU_bot - @skunono なになに、そんなに褒めるなよ～。
+@Rolling__Stonee - Finally finished cleaning this room 😁😅
+@Amelia_5270 - RT @theycallmejerry: The throwback though http://t.co/Og7ffxEMfu
+@nico_ziber - RT @JuanMeichtri: @nico_ziber me leo la biblia, la torah y el koran enteros.
+@0bey_Mah0ne - @AustinMahone I HAVE A CONFESSION TO MAKE 😳 IM OBSESSED WITH TILL I FIND YOU OKAY!!
+@ushikohu - RT @poordent: 【ウイイレ2014攻略】蒼き侍の挑戦・PS3体験版が本日配信！PSストアから無料ダウンロード可能 http://t.co/IZQxZq33iH　#soccerjp　#daihyo　#ウイイレ
+@corocoroPooo - 滝沢歌舞伎4/24私的memo→物乞い(･∀･)手紙読んだ方、ひーくん＆さっくんfanと言ったら坊主にどちらかに決めましょうって言われ｢岩本くんで♪｣となる。｢佐久間くん残念〜fan１人減りました〜｣坊主の言葉に苦笑いのさっくん♪
+@angie90255 - RT @nblmexicans: @NuestraBelleza c #NBLAlyVoto
+@AnaClau97 - RT @danymadrigal25: Dios mío no seas malo con los pobres de cuerpo, regala un poco de mi gordura 😩
+@conlacolo - RT @markhoppus: What's a McBusted? http://t.co/Typgr2pA9p
+@direcondas - RT @1DUpdateBRA: SPOILER: Better than words, but more than a feeling AU nos ensaios agora !
+@SanteTricarico - RT @valeriorser: Comunque l'impresa più grande di conte è stata vincere lo scudetto con matri contro il milan di ibra.
+@AlienWednesday - Win a box of books at @CAhnBooks blog (US only)! http://t.co/2YYKveElHj
+@jd4itti - RT @bobo55855: يا اللي ملكت القلوب ومنهم فؤادي يا الاتحاد من كل قرية ومدينة وفي كل وادي يا الاتحاد 💛💛💛!
+@barbyyalmuna - @Caaaami_H jajaja no soy zorra euu!
+@hiakabot - @aoba_smile 【赤司】いってらっしゃい紺、今日も一日頑張るんだよ(｀●ω○´)
+@Jecrlh_ - RT @minihitrer: Aquele puxão de cabelo com gostinho de "tu é minha".
+@casshaydon - When grandma and I cook food it always turns into a disaster😂
+@Joanagldd_ - RT @MadowInk: Moi je le méfie de tous le monde ! On ma appris , on ma prouver plein de choses que mtn je reste sur mes garde merci à cette …
+@melyna_uq - MI POLLO EXTREMO.. http://t.co/FLHAVOyLJQ
+@Fooutaaise - Sabrina cst une thug d'apres elle
+@zarryfound - se eles nao cantaram eu mesma subo no palco e canto
+@CarmeUrioste - Juliana dice cada cosa, jaja que tarada
+@raphamoraees - RT @96_thatazinha: Sdds treta nesse tt ta tao zzzzZZZZ
+@lajee369 - Them chains tho.!
+@Melide1D - 12 usuarios que sigo no me siguen de vuelta en Twitter. Entérate de quién no te sigue de vuelta http://t.co/duyZWdc0kB
+@a45_putri - http://t.co/TOu6EgIaB3 free 1000 follower/day
+@ShaunaLovesYouu - you never know a good thing until its gone
+@GracefulWhore - 5
+@madeinanairda - Hoy en mi cama dormimos mi fiebre y yo c:
+@seachikin2ndg - おはやっほー
+@abdulma12125830 - @s66666_m  هههههههه..انا لله
+@marianobandieri - Muchos prenden la tele o el aire con el celu, yo con el ipod, el microondas
+@sirayuki100126 - でもなんていうかアイドル声優のためだけに龍ヶ嬢七々々の埋蔵金にした感あるよね…
+@ArrobaMangione - Mañana es de semaforo.
+Rojo tiene novio/a
+Amarillo podemos hablar/confundido/a
+Verde: soltero/a, dale con cancha.
+@jullyiaa - "@Kewzeeer: "LA BITE LA BITE LA BITE" #ComprendraQuiPourra"
+@_gabix3 - RT @1carlosvitor: @_gabix3 @BelleTelles gabi raspa o cabelo dela !!!
+@ahmedelgebaly - RT @BinSwelam: أما سمعت "حي على الصلاة حي على الفلاح"... قم لب النداء :)
+#صلاة_العشاء
+@kim_odorico - @Center_for_AI Yes!  With time comes healing and the realization that more has been gained thru the traumatic event than was lost!
+@krbs_ms - 桜井：桃井さんがピーマンを口にくわえながら料理を作っていたので、「何を作ってるんだろう？」と思いながら、ふと桃井さんの足元を見ると、そこには「ピーマンをくわえて作る簡単チンジャオロースの素｣と書かれたレトルト商品のパッケージが落ちていたんです……
+@Basir48012 - http://t.co/xTcTbEvudx #الهلال #النصر #الأهلي #الأتحاد #جده #رتويت  #شعر #السعودية #الكويت #الإمارات #قطر #دبي #الرياض  #ريال_مدريد .567
+@HoAka055150 - RT @Current015: قالت ابغالي من ابداعك قصيده 
+وحبذا لو كان من / شعر الغزل
+.
+.
+الورق ~ ماهو محلك يا عنيده ' 
+في يسار الصدر حافظ لك محل”"
+@zajeelQ8 - RT @abuabdallh2: @zajeelQ8 
+
+انا حبوب وراح 
+
+اكشف كل المستور
+@IanMarquez9 - RT @CaandelaMarquez: con abi y iannn
+@Erje27 - RT @GuidoMercado: Efectivos militares armados hasta los dientes están a esta hora en Avenida las Américas y zonas cercanas.
+@emanueleme - The CATable is a workspace designed for your feline friend http://t.co/lDTKrSOJdm
+@Beatric1999 - I feel like I've made a monster
+@jadweja_gviapul - HAPPY THANKSGIVING FROM ALL OF US AT BANGLE AND CLUTCH. <3
+@megayuniarti6 - @VanRivaan @megannicole♥
+@MckenzieCosplay - Set de fotos: Claire Redfield gifspam ⇢ Resident Evil Code Veronica X [Pᴀʀᴛ 6] http://t.co/7zTN5crLCl
+@145692HAN - RT @shinebandexo: [한글자막] 140419 CCTV EXO-M 인터뷰 + 중독 + 엔딩: http://t.co/XvnY8EzsBK
+@volleyballimade - @m_0425_t えー今日はない！
+@skybrooke14 - RT @JaiBrooks1: hey I love u all cheers for makin me happy : )
+@stting - RT @ailol24: الله يجيب بكره بسرعه.
+@rinatanishi - ぱーま
+@_ccchanell - RT @jaanel_: she's staring at me so I figure that he told her who I am 😈
+@valous1 - J’ai publié une nouvelle photo sur Facebook http://t.co/sTmsJB2y9O
+@secre_gina - http://t.co/5i4wNW4Urb
+Si Ferry me porto bien jeje http://t.co/53FXzgqOIU
+@noonecanstop1 - Debra Franklin shared Empowered Women of Faith & Purpose, Inc's photo.: Debra Franklin shared Empowered Women ... http://t.co/cbwLgUXItS
+@ms_outrageousns - RT @acidgaf: tgif tgif tGIF TGIF
+@notrez - @MrMDavidson won't boot into safe mode.
+@Queen_Harry_ - RT @pubescraic: ONLY THE FANS WHO SURVIVED 5 MONTHS OF BOREDOM ARE ALLOWED TO BE HERE
+
+SO DONT U DARE COME RUNNING BACK ONCE THE TOUR STARTS
+@rjokG20 - RT @TyranAsorusFLEX: Over did it a bit with the hot sauce my lips are on fire 🔥🔥🔥🔥 help me idk what I'm doing
+@ambarynr - Run
+@stlla7187 - @snowislet 
+おはようございますヽ(´▽｀)/
+┌───────────┐
+│今日も笑顔♪宜しくです│　 　 　  
+└∩────∩─────┘ 
+　ヾ(*´∀｀*)ﾉ
+@Serote_0t - http://t.co/sSJx225Y8a
+@gimmethatbeckay - I love how green this rain is making the grass 😍
+@Tricia_v_Ramos - “@HarveyHarvv: @Tricia_v_Ramos smh. I know what I must do. 😔 beards dont cancel it out though? Like a mean one?”no my bf has a Stanley beard
+@JShufelberger - PHOTO: Stalking @iamtylercollier, Noah Norton, @taylormanna14 and Cooper Koslofsky with the help of @dan_reidel http://t.co/5bkiyoHAnW
+@MeDicenRin - http://t.co/Tw0BbAS5xk
+@MattPateman97 - @paintbrushswift she alright ;)
+@FabKidrxvhl - @avonbixberr ~ 👏👏 F A B
+@Roobertitoo - Vale es si-a. Me vuelvo a primaria
+@ad0ll_ - i used to be extra friendly A LONG TIME AGO , but now I dare you try & start a convo , I'll walk away while you talking 😂😂😂😂😂
+@iAM_GOLD_en_ - What's the meaning of A/S/L?
+@imintopmore - @itcareful CONTA
+@PositiveRedStu - Day after day @TheRealVDaDon just proves he should be a household name when it come to recording and producing for artists.
+@CPAle23152 - @EduChelseaFC Por que nadie me hablaba y eso xd
+@NiallerFtJustin - @zaynnsmile Hola perdón por molestar,sabes de alguna pagina web o algo donde transmitan el concierto en Colombia y gira completa de 1D?
+@Maagriinn - Não tenho medo do escuro, mas deixe as luzes acesas
+@oscarcoque - @LorenaSmileme Jajajaja  insomnio?
+@isallyPong - Vem... prefiro confessar sem vaidade, no fundo estou morrendo de saudade, você não pode nem imaginar
+@_jazvin_ - RT @WakeUp__America: http://t.co/6B64Bt6BSZ
+@lairamyrelle - Toca uma reggueira aê
+@_FAHAD_FCB - RT @To_N11: حياتي زي المسلسل السعودي حتى بوسه على عالخد مافي
+@maeva_rsw - @MannuInzaghi bonne nuit.
+@BTR_MySmile - RT @Notemetasenesto: Me sentía vacía... otra vez. http://t.co/ldbw8KA9DU
+@dejaniquee_ - 😒😤.
+@mcbo_maduros - RT @JavilloMata: Que ladilla con eso de "hazme una pregunta".
+@MDhai1 - RT @FBQ90: منى امارشا احلى من علا فارس واعلنت ميولها الهلالية وغنت في الهلال بس ماعطيناها عضوية فخرية ولادرينا عنها 
+
+لاتفشلوننا يانصراويين…
+@_K1DrauhlMyLife - RT @zaynmalik: I love spam ;) makes me feel good
+@mw00wd - RT @RT_202_0: ✳     المتواجـديـن✔  ✳     لزيـادة متابعينكم✔ ✳ضيفـــوا مــن يقــــوم بالريتويـــت✔  أشترك بالريتويت التلقائي http://t.co/pHF…
+@DekurHarun - @YannisBenNadja putin mais nnnnnnnnnn ! T'est mort
+@HasibuanHabib - Arbi Sanit: Kalau Mau Menang, Jokowi Harus Pilih Jusuf Kalla http://t.co/OdjHM2rTXF http://t.co/Et6nz8GJjT @PDI_Perjuangan @NasDem
+@DemiIsPerfect92 - RT @Maddielovesyou1: #ootd with my love💕 @dallaslovato http://t.co/KbX7bUsoBA
+@HQlv3_bot - @314_bluesky 鎌先「おー…、はよ、汀。頼んでもねえのに起こすなよ…あと5分」笹谷「起こしてもらって何だそれ起きろバ鎌先！」鎌先「あぁ！？」
+@__LuisM - RT @Juezcentral: Según sus menciones,estos son los partidos que vale la pena vivir
+Boca-River
+Roma-Lazio
+Inter-Juve
+Rosario-Newell’s
+Barça-…
+@Uh_Milly - RT @christopherdp: silly girls buying cross necklaces from forever 21 that have no spiritual significance and then hating on a white girl w…
+@ParhamMads - @cjhammonds96 I think I just drove by your house cause you were outside 😂
+@LINE_hukkin - 早く別れるカップルのLINE
+
+女「髪染めたいんだけど何色がいいかなぁ??」
+男「○○は何色でも似合うよ♡」
+女「赤でも？笑」 男「うん笑」 
+
+長く続くカップルのLINE 
+
+女「髪染めたい」
+男「染めれば」
+女「何色がいい？」
+男「緑」
+女「おk、茶色にする」
+@fudan10u - そういえば、奥さまは魔女、最近、 BS の Dlife で朝やってて、出勤前の楽しみの一つになってる。
+@gswright1989 - @taylorrteal yeah haha
+@mamas_sp00n - Super stoked for The Amazing Spider-Man 2. I hope it doesn't disappoint 😁
+@MuddyII - Mili no me habla, es mala :_
+@chungstyIes - RT @yeezustins: Don't forget this is the live stream for the first show :) http://t.co/WR7ekkE2Vz
+@Raaymarcondes__ - se eu pudesse...
+@LKRBOI - @culverfan hahahaha
+@Rabbit4Foe - @nisamatei aweeeee :))
+@emilyanndavis29 - RT @itsGirICode: me at school vs. me on the weekends http://t.co/m8NQoWMs3k
+@axieklinberg - RT @eellenkarlssonn: Hela min skolgång http://t.co/HSp6lETQMI
+@Stevie_Raaeee - Omg why doesn't chipotle not have a drive through ?
+@sawwavonb - nap time
+@atenk_0705 - RT @LtRn_: こんなん草生えるわ http://t.co/kRct4DHygL
+@PinkShadow03 - RT @lucyyagami: Tengo hambre :c
+@FJC2013 - Diosdado Cabello: La única ley de amnistía en la historia de este país la aprobó el presidente Chávez http://t.co/o9vJALQKf6 @NicolasMaduro
+@masegakii - JRで隣り座ってきた人むちゃ
+香水きちぃ。しかも服
+フリフリだし…
+
+なんか正反対すぎてうける。
+うそ。笑えない。寝る。
+@ClaraRepupilli - Cn quien haría linda pareja el Lolo girotti de segundo? — Con pepe araujo http://t.co/uaiJSs8BLv
+@marin_bot1 - @saori_saaan 死んじゃう？・・・じゃあ死ねば？
+@sigu_27 - @sakusaku397 さくちゃんおやあり！
+@Vaneemolina98 - One thingggg en tkm aaaaaaaayyyy
+@na_nonq - RT @catatansiDoy: :) RT @itsmovies: Up.♡ http://t.co/DF9Tk84TJO
+@keilarojas77 - RT @snooki: Booboos! #SNOOKIANDJWOWW season 4 is a go!!!!!👯👯👯👯  http://t.co/SPSWb36hm9
+@seastarbatita - RT @USAScienceFest: #xstem speakers Jason Osborne and Aaron Alford from @paleoquest captivate audiences @ #fossils http://t.co/fQ7uGGgH1l
+@PomYuzu1016 - RT @kando_akan: 好きな人の好きな人になりたい http://t.co/uUA5QDU426
+@sglrr - Günlük Rapor: 69 kişi profilimi gezdi, 7 tweet attım, 4 kere retweetlendim via (http://t.co/rxoqTsuUUC)
+@24Ortpisis - @ozziitta tu dices amor nadie mas ke tu mamita http://t.co/6pxaOdsJJ5
+@turkoe010 - http://t.co/3j2pg2HIyq
+@RestyRicalyn - @SpinnrPH I'll bring my SISTARLET @Rileahresty25 !! <3  She loves Taylor Swift too. ='')) #SpinnrTaylorSwift 5207
+@Santhy98 - Calmense con estas imágenes por favor JAJAJAJAJAJAJAJAJAJAJAJAJAJAJAJA http://t.co/bZic63DcKG
+@Ayezarzoso - Bajé la guardia y me expuse al dolor, caricias falsas, frío en la habitación...
+@melisandenicaud - ennuis mortel
+@sssele7 - Porque no puede ser todo como hace 4 o 3 años?
+@IvanVinseiro7 - No hay a quien demostrarle el amor, porque? Porque no hay chicas decentes.
+#"      " noches!
+@elbably2011 - حقيقة http://t.co/iTBRnfcfwF
+@secsaudedf - Saúde previne fraturas em idosos causadas por osteoporose: http://t.co/3ArwefAWbj
+@8thoffebuary - Touch her butt, tell her sweet things.
+@journalsmetria - ''Nothing but love for all my Beliebers :)''
+@hellenamattos - RT @rissa__vg: curso tava massa
+@__TheRealJustin - RT @GogoBritt_: My stomach be growling like shit in class 💀
+@purpl3_shimm3r - RT @seedoftyga: im perfectly fine with losing every person ive fucked with .. why ?  cause people come and go , world dont stop spinning fo…
+@3idiotsRT - RT @parantezinici: Sevdiklerinizle birli... ( OKUMADI )
+@Bayangan_ChiBi - Pagi @Kezia_ChiBi :D Keep Support You and others . . . http://t.co/AUtSIIsdb2
+@CoolModafoka - RT @BeckenbauerFree: @CoolModafoka @mrsDaphneHoran Heu ... On s'en bat les couilles 😔
+@_BiaRochaa_ - saporraaaaaaaaaaaaaaa
+@n3708iga - まじか
+@doriqn_pti - まぁ枯葉でズコーにはならんけどもやっぱり狼見たい
+@Soficura - Lo que me costo despegarme de la almohada esta mañana. . . Ahora no me despego mas ❤
+@EmeMonje22 - Pero yo te amo:/ me dice jajajajajjaja
+Haceme reír. Ah no, ya lo hiciste.
+@Faithmm98 - I just want to nap
+@GetYourLifeeeee - RT @ShutUpBlTCH: I don't hold grudges. I remember facts.
+@elisabet_marie - #ElPulsoBillaboard @ilvolo #Biilboards2014 #IlVoloBillboard2014  💎
+@ChrisBrey1 - RT @BEAUTIFULPlCS: #Paris. http://t.co/ZxdI6kPD2c
+@Yulisa_x3 - RT @iLikeGirlsDaily: Katy Perry is fine 😍 http://t.co/oIhw9bRdlU
+@carlosazahares - RT @ReinoMadridista: El gol de Benzema. https://t.co/UmdhsZCuQW
+@DundarYakup - Sa me manque de jouer sur un bon terrain la mettre des coups prendre des coups embrouiller les arbitres prendre des cartons rouge et jaune
+@apoloveapolo - ２限あく。ワンチャン有り。
+@cadame1970 - Ya esta destituido?  http://t.co/o2EGH9wiru  #escandalopolitico
+@Valle1305Mati - RT @OfficialFacts1D: Los chicos ensayando hoy en el estadio El Campin, en Colombia! #OF1D ✌ http://t.co/sOT9H7fiC3
+@Danniconeli - RT @Daniel248: Estadio Enrique Osses Zencovich
+@Get_at_meeeee - Peak a boo ....my diamond's Pikachu!
+@folmerkelly - @7SoulDesign Hell yeah. So hype
+@SimpleFreekClo - RT @TraceyyHart: Super excited for @SimpleFreekClo to put their merchandise out 😙
+@memoo0077 - RT @ModiSuliman9: معليش حتى الويكند استغله بالنوم .
+@buffaloon - A nation of ignorance http://t.co/ByfHwjXL6B via @badtux99
+@Tritonsz - RT @SoaRBrioh: Bo2 servers are down....
+@misutiruikoan - やべぇ、コンタクト3日連続はアカン。
+前のコンタクト付けようと思ったら右のだけ保存液抜けててカッピカピ。
+今日はメガネや…
+@caragilheaney1 - RT @JaiBrooks1: hey I love u all cheers for makin me happy : )
+@afandi_toni - @InsomNISAAA_Byl @AnisaRahma_Adi pagiii jugaaa
+@PinturasCirax - RT @proexportcol: Las puertas de Barranquilla las abren en California | Proexport Colombia: http://t.co/3rox9wS2VN #LoMejorDeColombiaParaEl…
+@caroline_cookkk - RT @HighSkoolProbs: Tomorrow's Friday http://t.co/oA3ZRAF5jS
+@KrazeYT - RT @Rakwon_OGOD: CAN'T TRUST EBAY ANYMORE BRUH... THESE NIGGAS FUCKED ME OVER SMH http://t.co/bxMRkzAFcW
+@DrMamo7 - يا عيال يا وسخة بتتخانقوا علي ايه ؟!
+@_kiminideaete - RT @MENSFASHION17: トレンチにロールアップを合わせてみる！ 　http://t.co/CGVL1AzlM5
+@YelyahTheKid - RT @TheRealGrimmie: Guys...........IM GONNA BE ON THE ELLEN SHOW on October 10th!!!!!!!!!!!!!! THANK YU guys for petitioning and... http://…
+@rkzutinoko_bot - 久「今日はどこまでやるの〜？」
+暇「もうメロディは出来たから歌詞入れてもらって調教して終わりかなぁ」
+久「おお！新作新作〜♪」
+@1013takashi - RT @SmileGHorse: グーフィーとマックスでアナ雪パロ http://t.co/SOyAZ6uj9s
+@larryoncraic_ - @IGGYAZALEA what if you bought it on iTunes #TheNewClassicFollowSpree
+@_holley3 - もうだめ、おやすみもらっちゃぉ。
+@MartuGonzalez__ - RT @AgusEpeloa: Hoy le cantamos un millón de veces el fc a Bidondo, JAJJAJAJAJAJAJJAJAJAJAJ ALTO DESCANSO LA PROFESORA
+@nicolemazzanti - @kraftdinner666 don't even think about it, it's mine👊👊
+@izumizagan - @NICOxMAKI はむさんおはー
+@Mfnxcali - http://t.co/hS5JHbZnvD
+@kyra_yemea - @myworld_steph - 😌👌
+@Saade_0x - love adventure time
+@marcelox515 - RT @soprano_azul: Laguna caren??? Si ya somos pocos los que vamos a santa laura....  mal
+@darianpeace - @xkvtiex I'M SO HAPPY OH GOD I'M ALREADY FREAKING OUT IT ISN'T UNTIL SEPTEMBER WOWIWWW IS THIS REAL LIFE
+@ErikaIsimat - D'une inutilité flagrante s'garçon 😒
+@Shawn__Moses - Smoothies at Panera are too good
+@turqut1903 - Şeytanda insandaki özeIIikIerin birisi hariç hepsi vardır. Şeytanda eksik oIan tek nimet Aşk… Şeytanın insanı çekememesi aşksızIığındandır.
+@DubbBADD - For all y'all Bossie Bandwagoners he on 106
+@a2a3833m - : عن هوىّ غيرك تراني مستخير ، 
+قاطعين اليآس والحبل إنطوىّ 💘
+@WaleedAbdellah - RT @__watan: تكليف مش تشريف
+@ForeverJlovers - la amo mucho
+@MioParadiso - Ser mamá adoptiva de una zarigüeya no es fácil
+@Erislene_Fontes - "Erros podem ser perdoados. Atitudes podem ser repensadas. Mas algumas palavras poderão nunca ser esquecidas."
+@Eveeesh - RT @the13threality: BEST PICTURE @jamesdashner @dylanobrien @PoulterWill @wesball @MazeRunnerMovie http://t.co/d1NvvnoSMg
+@princelord1122 - RT @badoore007: واحلف لك ..  اني كل م سمعت اسمك .. أو رأيت صورتك .. ابتسمُ واشتاقلك !! - http://t.co/yiaVf0WGBY
+@saudalayed - @mbuyabis لا ليتل سيزر واذا طق البيت طلع الفلوس وأدفع واذا تأخرت بالدفع يودونك  المخفر ! دربالكم!
+@yummyfooddrink - Photo: HAPPY EASTER… with Easter Bunny Cake, Bunny Cupcakes, & Easter Egg Cookies http://t.co/hEVJHF4V9L
+@AlaminSimbi - "@Broitseden: Ayy new follower 😍" what if I unfollow you and follow you again. Do I get this shout out?(:
+@indiedrunkharry - @styIesnights ARE THEY SINGING THEM WHAT???
+@mert_kova - RT @_ertemsener: @SafakSezer öyle el sallamakla olmaz yayına gel yayına :))
+@keitadaniels - I've collected 4,114 gold coins! http://t.co/ldvwyDhP5B #android, #androidgames, #gameinsight
+@xxBdorxx - RT @781444: والله محد يستاهل اني اشتاق له واعد الايام عشان اشوفه غير الهلال.
+@RT_Blogshare - RT @LucyLottery: #US #Powerball #Lotto results, Wednesday 23rd April 2014. http://t.co/broMc0Hxax #lottery
+@abduldkdk - Anayasa Mahkemesi’ne Taksim başvurusu: Ankara Barosu'na kayıtlı Avukat Sedat Vural, Anayasa Mahkemesi'ne başvu... http://t.co/sMdmsR2Dgu
+@velasquezjwd - Bárbara,sobre a expansão do aeroporto: permitirá que Americana seja um polo de desenvolvimento regional e já nos prepara para copa de 2014.
+@joe_ho121 - @rowrowrey hahah you were about to really cry! LMFAO!😂😂😂😂😂
+@Nabil_qahtani - RT @Abu_Riv: ⭕ المتواجديــن ⭕ لزيادة متابعينكم ➊ فولومي ➋ ريتويت ➌ فولو اللي عمل ريتويت ➍ فولو باك ➎ اتبعوا الخطوات السابقة لزيادة متابعينك…
+@justvampirewolf - @john HEY YOU, THE ONE THAT IS READING THIS (I hope) YOU KNOW WHAT? You need to follow us @itsbizzleok and me bc that will be so cool bye2
+@Madi_Laney - I just want my shit back.
+@wcoficial - Não sou forte! Forte é o Deus que habita em mim, Ele me faz forte para vencer os obstáculos que… http://t.co/YS9shqY4Mu
+@louisnocaute - RT @choosezaynbr: Os meninos no ensaio agora (olhem como termina a plataforma): http://t.co/50cNO2gk96 (via: @LouisBRCom)
+@VicentePugliaAr - RT @la_iguanatv: La verdad sobre zara, Pull and Bear y Bershka en Venezuela http://t.co/FDetzOgwNJ  http://t.co/2yh2ufe0ZH  <
+@snowcuteforever - @17mecha @JazpperCP @inGameEXP oooomg mis idolos en grande.
+@carolinacurrrin - No veo a mi viejo hace 2 dias y hoy se fue a Bariloche
+@linette_nettan - @JaiBrooks1 we love you more than you can imagine!
+@LOVE40157374 - TL見ながら朝ごはんww
+@nuralalala - @hannnnanihadi maap malam tadi saya tertidur pukul 9 lebih lagi
+@semtinmuhabbeti - RT @parantezinici: Sevdiklerinizle birli... ( OKUMADI )
+@AlexxaMagee - @HKWeedor I'm up!
+@charliebandw - RT @Delta: Enjoy our BusinessElite® flat-beds and more on the first of many of our refurbished 757-200s! http://t.co/mLoiQHYqI7
+@kaelak_craycray - RT @TheDreamCIoset: beautiful dress http://t.co/URQcl1RDsl
+@elmari1406 - @Sara_____300 ░F░O░L░L░O░W░ ░ⓕ░ⓡ░ⓘ░ⓓ░ⓐ░ⓨ░ ┊ ┊ ┊ 🌹 ┊ 🍃 🌹 ┊ ┊ 🍃 ┊ 🌹 🍃 ┊ ┊ 🌹 ┊ 🍃 🌹 ┊#حساب_يستحق_المتابعه""  #FF"
+@thdud7784 - 아고 왜 자고 일어나니까 두들겨맞은거같지....
+@HaddieMaee - On days like these I just want to cuddle up and watch Netflix. But I can't cause your not here @AEnglish31
+@feer_sil - Casa da Tiiaa, #Jantinhaaa
+@hxrrytbh - RT @pubescraic: ONLY THE FANS WHO SURVIVED 5 MONTHS OF BOREDOM ARE ALLOWED TO BE HERE
+
+SO DONT U DARE COME RUNNING BACK ONCE THE TOUR STARTS
+@oneryrissa - @pamelamaynard Fingers crossed for a BIG or small win #MilesofSmiles
+@kohachang - ミルタンクって名前はなんか色々とすごい
+@AmourLaShay - It seems I have energy at home but at school I be dead AF !
+@S_Zamoraa - @questlove @DazeFixation_
+@pseudo_Lisa - RT @karayaslihan 
+"After a night out" Henri Joseph Thomas (1878 - 1972)
+http://t.co/oGjH6ENZ6H
+@frvsht - RT @goldjpg: crawl // childish gambino
+@luismasero - Gracias a @DaniloMedina por ya inicio la construcción de la carrera Janico Juncalito @JCesarValentin @demostenesm http://t.co/cyeAMvlfXC
+@513BlastFanpage - #OHIO #DJS  #STAND UP @VEXXX513  WHO VEXXX513 #6 - 513 REMIX: http://t.co/ukklIcnNeb http://t.co/tSzfLje2Zy
+@kaenbyou_rin28 - @otokoisi514omu おはようございますぅ、こいし様っ…（目擦り）
+@alioden_ahlam - RT @shinebandexo: [한글자막] 140419 CCTV EXO-M 인터뷰 + 중독 + 엔딩: http://t.co/XvnY8EzsBK
+@CSilvagni - @soniabetz1 @Nicola_Berga @riccardo_fra mica sempre purtroppo, spesso sono talmente faziosi che arrivano a negare pure l'evidenza...
+@nicole_again - YASSSS #PBR
+@Pukecolors - Mi cama no parece ni cama sabes xdddd.
+@Hollyxshit1 - @Luke5SOS 
+
+-Knock knock
+-Who's that?
+-Luke
+-Luke who?
+-Lucky Luke
+
+(ur supposed to laugh & follow @HollyxShit bc she's too funny no?) 14
+@igothittaz_yak - @_Theyh8ny follow back
+@Rubenentregala - #SoyDeEsaClaseDeGenteQue le da paja absolutamente TODO.
+@6363Andre - "Charge explosive" est à moi à présent. Vous pouvez en faire autant ? http://t.co/dFvvDBiY5Z #android,#androidgames,#gameinsight
+@barbi_polidori - @micaelaaviani no tengo compuuu:(
+@sarinha_bj - sds de conheçer pessoas novas , sds  ...
+@Hollyxshit1 - @Luke5SOS 
+
