@@ -18,10 +18,10 @@ with open('effectwordnet/goldStandard.tff') as f:
                 sentimentdict[word] = sentiment[0]
 
 if __name__ == "__main__":
-    #conf = SparkConf().setAppName(appName).setMasterpmaster)
     sc = SparkContext(appName='TweetSentiment')
 
     textFile = sc.textFile('data/tweets.sample')
     tweets = textFile.filter(lambda line: bool(line) and '@' == line[0])
-    #print "NUMBER OF TWEETS: %i" % tweets.count()
-    pprint(tweets.collect())
+
+    print "NUMBER OF TWEETS: %i" % tweets.count()
+    # pprint(tweets.collect())
