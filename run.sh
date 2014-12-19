@@ -13,4 +13,4 @@ if ! exists spark-submit && [ "$(uname)" == 'Darwin' ]; then
 fi
 
 # run spark program locally
-spark-submit --master local[4] sentiment.py
+spark-submit --master local[4] sentiment.py $1
