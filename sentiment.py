@@ -3,7 +3,7 @@ from pyspark import SparkContext
 from collections import defaultdict
 from operator import add
 from pprint import pprint
-import sys
+import sys, os
 
 sentiment = defaultdict(lambda: 0)
 
@@ -37,9 +37,17 @@ def list_of_hr_sentiment_tups(tup):
 if __name__ == "__main__":
     sc = SparkContext(appName='TweetSentiment')
 
+    env = os.getenv('ENV', 'dev')
+    print 'ENV: ', env
+
     # TODO change text file and partition count
-    num_tweets = sys.argv[1] if len(sys.argv) else '1000'
-    text = sc.textFile('data/tweets.%s.sample' % num_tweets, 30)
+    if  env == 'dev':
+        num_tweets = sys.argv[1] if len(sys.argv) >= 2 else '1000'
+        data = 'data/tweets.%s.sample' % num_tweets
+    elif env == 'prod':
+        data = 's3n://jamis.bucket/Assignment3Tweets-2'
+
+    text = sc.textFile(data)
 
     # remove anything that isn't a tweet (e.g. java logging)
     # split twitter username from actual tweet
@@ -47,6 +55,8 @@ if __name__ == "__main__":
         .filter(lambda line: line and '@' == line[0])\
         .map(extract_tweet)\
         .filter(None)\
+
+    tweets.cache()
 
     # all tweets fall within a 10 hour timespan
     hours = 10.0
